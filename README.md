@@ -110,13 +110,12 @@
 🔥 POWERED BY INNOVATION • DRIVEN BY PASSION • FUELED BY CODE 🔥
 </div>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=HamzehJarrar&icon=6&color=00FFFF&bg_color=000000)](https://visitcount.itsvg.in)
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=00FFFF&animation=twinkling&stroke=00FFFF&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&animation=twinkling"/>
 </div>
 

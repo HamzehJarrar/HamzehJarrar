@@ -1,76 +1,53 @@
 <div align="center">
 
 # 🚀 **HAMZEH ABEDALHKEEM JARRAR**
-### 🔥 **AI SPECIALIST & FULL-STACK DEVELOPER** 🔥
+### ⚡ **AI SPECIALIST & FULL-STACK DEVELOPER** ⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Science+%7C+AI+Specialist;Full-Stack+Developer;Problem+Solver+%7C+Innovation+Driver;Ready+to+Build+the+Future!" alt="Typing SVG" />
-
-</div>
-
----
-
-## 💫 **ABOUT ME**
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
-
-**🎯 MISSION-DRIVEN DEVELOPER** with expertise in **Artificial Intelligence** and **Full-Stack Development**
-
-✨ **PASSIONATE** about bridging cutting-edge AI innovation with real-world solutions  
-🚀 **EXPERIENCED** freelance Front-End Developer creating responsive, user-centric applications  
-🔥 **COMMITTED** to continuous learning, collaboration, and impactful project contributions  
-⚡ **FOCUSED** on building the future through technology and teamwork  
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=Computer+Science+%7C+AI+Specialist;Full-Stack+Developer;Problem+Solver+%7C+Innovation+Driver;Ready+to+Build+the+Future!;Powered+by+Neon+Energy!" alt="Typing SVG" />
 
 ---
 
 ## 🌐 **CONNECT WITH ME**
 
-<div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=FF6B35)](https://facebook.com/Hamzeh%20Jarrar)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF6B35)](https://instagram.com/its_newhamzeh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF6B35)](https://linkedin.com/in/Hamzeh%20Jarrar)
-
-</div>
+[![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00FFFF)](https://facebook.com/Hamzeh%20Jarrar)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FFFF)](https://instagram.com/its_newhamzeh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF)](https://linkedin.com/in/Hamzeh%20Jarrar)
 
 ---
 
 ## 💻 **TECH ARSENAL**
 
-<div align="center">
+### ⚡ **PROGRAMMING LANGUAGES**
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FFFF)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FFFF)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FFFF)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=00FFFF)
 
-### 🔥 **PROGRAMMING LANGUAGES**
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&labelColor=FF6B35)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=FF6B35)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=FF6B35)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=FF6B35)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=FF6B35)
-
-### ⚡ **WEB TECHNOLOGIES**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=FF6B35)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF6B35)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=FF6B35)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=FF6B35)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white&labelColor=FF6B35)
+### 🔥 **WEB TECHNOLOGIES**
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FFFF)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FFFF)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FFFF)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=00FFFF)
+![Nodemon](https://img.shields.io/badge/Nodemon-000000?style=for-the-badge&logo=nodemon&logoColor=00FFFF)
 
 ### 🤖 **AI & DATA SCIENCE**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6B35)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=FF6B35)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=FF6B35)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=FF6B35)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=FF6B35)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00FFFF)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=00FFFF)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00FFFF)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00FFFF)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00FFFF)
 
 ### 🗄️ **DATABASES & CLOUD**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=FF6B35)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=FF6B35)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=FF6B35)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=FF6B35)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FFFF)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FFFF)
+![Heroku](https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=heroku&logoColor=00FFFF)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FFFF)
 
 ### 🎮 **GAMING & DESIGN**
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white&labelColor=FF6B35)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=FF6B35)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=FF6B35)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=00FFFF)
+![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=00FFFF)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-000000?style=for-the-badge&logo=nvidia&logoColor=00FFFF)
 
 </div>
 
@@ -78,12 +55,12 @@
 
 ## 📊 **GITHUB ANALYTICS**
 
-<div align="center">
+<div align="center" style="background: linear-gradient(45deg, #000000 0%, #001133 50%, #000000 100%); padding: 25px; border-radius: 20px; border: 2px solid #00FFFF; box-shadow: 0 0 40px #00FFFF20;">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HamzehJarrar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B35&text_color=FFFFFF" alt="GitHub Stats"/>
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=HamzehJarrar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B35&fire=00D9FF&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HamzehJarrar&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&border_color=00FFFF" alt="GitHub Stats"/>
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=HamzehJarrar&theme=dark&hide_border=true&background=000000&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF&border=00FFFF" alt="GitHub Streak"/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzehJarrar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzehJarrar&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&border_color=00FFFF" alt="Top Languages"/>
 
 </div>
 
@@ -91,9 +68,9 @@
 
 ## 🏆 **ACHIEVEMENTS**
 
-<div align="center">
+<div align="center" style="background: #000000; padding: 20px; border-radius: 15px; border: 2px solid #00FFFF; box-shadow: 0 0 30px #00FFFF15;">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HamzehJarrar&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HamzehJarrar&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=4&bg_color=000000&title_color=00FFFF&text_color=FFFFFF)
 
 </div>
 
@@ -101,9 +78,9 @@
 
 ## 💡 **DAILY INSPIRATION**
 
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #000000 0%, #002244 100%); padding: 20px; border-radius: 15px; border: 2px solid #00FFFF; box-shadow: 0 0 25px #00FFFF20;">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&bg_color=00FFFF&text_color=FFFFFF&author_color=00FFFF)
 
 </div>
 
@@ -111,33 +88,35 @@
 
 ## 🔝 **TOP CONTRIBUTIONS**
 
-<div align="center">
+<div align="center" style="background: #000000; padding: 20px; border-radius: 15px; border: 2px solid #00FFFF; box-shadow: 0 0 30px #00FFFF15;">
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=HamzehJarrar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=HamzehJarrar&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF)
 
 </div>
 
 ---
 
-<div align="center">
+<div align="center" style="background: linear-gradient(45deg, #000000 0%, #001122 50%, #000000 100%); padding: 30px; border-radius: 20px; border: 3px solid #00FFFF; box-shadow: 0 0 50px #00FFFF30;">
 
 ## 💰 **SUPPORT MY WORK**
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=FF6B35)](https://buymeacoffee.com/hamzehjarr5)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=00FFFF&labelColor=000000)](https://buymeacoffee.com/hamzehjarr5)
 
 ---
 
-### 🌟 **"Building Tomorrow's Solutions Today"** 🌟
+### ⚡ **"Building Tomorrow's Solutions with Neon Power"** ⚡
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=HamzehJarrar&icon=6&color=00D9FF)](https://visitcount.itsvg.in)
+<div style="color: #00FFFF; font-size: 18px; text-shadow: 0 0 10px #00FFFF; margin: 20px 0;">
+🔥 POWERED BY INNOVATION • DRIVEN BY PASSION • FUELED BY CODE 🔥
+</div>
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=HamzehJarrar&icon=6&color=00FFFF&bg_color=000000)](https://visitcount.itsvg.in)
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=00FFFF&animation=twinkling&stroke=00FFFF&strokeWidth=2"/>
 </div>
-\`\`\`
 
-</div>

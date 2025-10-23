@@ -41,11 +41,8 @@
 ### 🗄️ **DATABASES & CLOUD**
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FFFF)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FFFF)
-![Heroku](https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=heroku&logoColor=00FFFF)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FFFF)
 
 ### 🎮 **GAMING & DESIGN**
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=00FFFF)
 ![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=00FFFF)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-000000?style=for-the-badge&logo=nvidia&logoColor=00FFFF)
 

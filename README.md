@@ -9,9 +9,9 @@
 
 ## 🌐 **CONNECT WITH ME**
 
-[![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00FFFF)](https://facebook.com/Hamzeh%20Jarrar)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FFFF)](https://instagram.com/its_newhamzeh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF)](https://linkedin.com/in/Hamzeh%20Jarrar)
+[![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00FFFF)]([https://facebook.com/Hamzeh%20Jarrar](https://www.facebook.com/hamzeh.jarrar.2025))
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FFFF)](https://www.instagram.com/its_newhamzeh/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF)](https://www.linkedin.com/in/hamzehjarrar/)
 
 ---
 
